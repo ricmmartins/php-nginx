@@ -1,6 +1,5 @@
-# php-nginx
-This is my sample containerized app 
-
+# simple-php-app-container
+This is my conteinerized version of https://github.com/ricmmartins/simple-php-app
 
 ## Usage
 1. Clone this repo
