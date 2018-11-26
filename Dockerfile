@@ -23,5 +23,5 @@ WORKDIR /var/www/app
 RUN git clone https://github.com/ricmmartins/simple-php-app.git
 RUN mv simple-php-app/* /var/www/app  
 
-EXPOSE 80 443
+EXPOSE 80 
 CMD service php7.0-fpm start && nginx -g "daemon off;"
