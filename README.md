@@ -1,2 +1,6 @@
 # php-nginx
-Container playground
+This is my sample app containerized
+
+
+
+
