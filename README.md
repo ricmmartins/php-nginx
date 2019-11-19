@@ -12,4 +12,5 @@ This is my conteinerized version of https://github.com/ricmmartins/simple-php-ap
 2. ```sudo docker tag simple-php-app rmartins/simple-php-app ```
 3. ```sudo docker push rmartins/single-php-app ```
 
-
+## Checking at Docker Hub
+1. Look at https://hub.docker.com/r/rmartins/simple-php-app
