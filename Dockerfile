@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER Ricardo Martins - ricmart@microsoft.com - http://rmartins.cloud
+MAINTAINER Ricardo Martins - http://rmartins.cloud
 
 # Packages
 RUN apt-get update
